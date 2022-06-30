@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ManagSchool/static/css/main.7d90c18f.css",
+    "main.js": "/ManagSchool/static/js/main.dbd03c56.js",
+    "static/js/787.c52a1f91.chunk.js": "/ManagSchool/static/js/787.c52a1f91.chunk.js",
+    "index.html": "/ManagSchool/index.html",
+    "main.7d90c18f.css.map": "/ManagSchool/static/css/main.7d90c18f.css.map",
+    "main.dbd03c56.js.map": "/ManagSchool/static/js/main.dbd03c56.js.map",
+    "787.c52a1f91.chunk.js.map": "/ManagSchool/static/js/787.c52a1f91.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d90c18f.css",
+    "static/js/main.dbd03c56.js"
+  ]
+}
