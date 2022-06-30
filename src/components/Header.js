@@ -5,7 +5,7 @@ class Header extends react.Component {
         super(props);
     }
     render(){
-        const nameOfice = <header>Office of Ramot Jerusalem School</header>
+        const nameOfice = <header>Office of Ramot Jerusalem School!!</header>
         return <div>
         {nameOfice}
         <span>name:{this.props.officeDetails.name} </span>
